@@ -1,6 +1,8 @@
 # Português (PT_BR)
 
-Este Plug-in foi desenvolvido para gerar "Ordem de Serviço" baseado nos dados do ticket.
+Este Plug-in foi desenvolvido para gerar "Ordem de Serviço" baseado nos dados do ticket por [**Junior Marcatti**](https://github.com/juniormarcati).
+
+# Este repositório foi descontinuado e o oficial pode ser encontrado em [GLPI OS - Oficial](https://github.com/juniormarcati/glpi_os).
 
 Para instalar o Plug-in siga os passos abaixo:
 
